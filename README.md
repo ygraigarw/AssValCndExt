@@ -20,7 +20,7 @@ The paper provides a discussion.
 
 # Software
 
-The directory Code contains MATLAB functions allowing the full simulation study to be reproduced. Look at A_DriverPrlSmlPpr.m ("DRIVER for the PaRaLlel SiMuLation in the PaPeR) to get going. 
+The directory Code contains MATLAB functions allowing the full simulation study to be reproduced. Look at A_DriverPrlSmlPpr.m ("DRIVER for the PaRaLlel SiMuLation in the PaPeR") to get going. 
 
 The full simulation takes of the order of 10 days with 40 parallel workers.
 
